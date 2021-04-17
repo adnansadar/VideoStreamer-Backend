@@ -1,6 +1,7 @@
 # VideoStreamer-Backend
 [Link](https://github.com/adnansadar/Video-Streamer-FrontEnd) for Front End of this project
-[Link](https://github.com/adnansadar/VideoStreamer-NodeMediaServer] for Node Media Server
+
+[Link](https://github.com/adnansadar/VideoStreamer-NodeMediaServer) for Node Media Server
 
 ## Available Scripts
 
